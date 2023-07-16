@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CurrentLocationFeatcher</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="current_location">Current Location</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="address">Address</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="get_location">Get Location</string>
+    <string name="get_map">Get Map</string>
+</resources>
